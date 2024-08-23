@@ -1,6 +1,6 @@
 # 项目文件介绍  
 整个项目文件的大致描述  
-
+            ![image text](https://github.com/xjz2333/deepl/blob/main/%E6%96%87%E4%BB%B6%E4%BB%8B%E7%BB%8D.PNG)
 # 需求文件
 项目需要的包均在 requirement.txt中
 # 配置文件  
