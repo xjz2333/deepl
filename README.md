@@ -4,6 +4,6 @@
 通过main.py运行。配置文件在check/config/tool.json，若要调用对应模块在里面修改便可！  
 ***注意***：目前已经开发完成的版块有：  
             <div align="center">
-                    <img src="https://github.com/******/dbscan_clustering_algorithm/blob/master/data/DBSCAN.png">
+                    <img src="https://github.com/xjz2333/deepl/blob/main/%E5%AE%8C%E6%88%90%E6%A8%A1%E5%9D%97.png">
             </div>
 
